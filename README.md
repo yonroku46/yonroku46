@@ -1,13 +1,13 @@
-## 4ROKU 
+## About me
 - 👋 Hi, I’m @yonroku46
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in WebDev...
+- 🌱 I’m currently learning English...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonroku46&show_icons=true)
 
 ## Develop now
 
-+ #### 2021.08～ [Pick Project](http://3.36.69.67/) (by Python Flask, React)
++ #### 2021.08～ [Pick Project](http://ppik.shop/) (by Python Flask, React)
 
 
 
